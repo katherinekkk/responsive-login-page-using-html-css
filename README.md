@@ -1,2 +1,2 @@
-# responsive-website-using-HTML-CSS
+# responsive-website-using-html-css
 Responsive Login Page using HTML and CSS(Flex property, media queries)
