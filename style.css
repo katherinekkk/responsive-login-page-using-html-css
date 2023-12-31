@@ -82,7 +82,7 @@ h1 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: url('img/login-bg.jpg') no-repeat center center / cover;
+    background: url('login-bg.jpg') no-repeat center center / cover;
     height: 100vh;
 }
 
