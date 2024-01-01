@@ -1,2 +1,3 @@
 # responsive-login-page-using-html-css
-Responsive Login Page using HTML and CSS(Flex property, media queries)
+This project provides a Responsive Login Page built by combining HTML for structure, CSS with flex property for layout flexibility and media queries for responsiveness.
+Technology used: HTML and CSS.
